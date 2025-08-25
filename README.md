@@ -25,7 +25,12 @@ It focuses on learning how to arrange sections, apply styling, and improve visua
 - Understanding how **Flexbox** simplifies alignment  
 - Using **position properties** for banners and overlays  
 - Developing a mindset for **clean UI replication**  
- 
+
+ ---
+
+## 🚀 Project Status
+- Current version is **not responsive**.  
+- A responsive update will be added soon.
 
 ---
 
